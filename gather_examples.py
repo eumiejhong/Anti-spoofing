@@ -1,6 +1,6 @@
 #Usage
-# python gather_examples.py --input videos/real.mov --output dataset/real --detector face_detector --skip 1
-# python gather_examples.py --input videos/fake.mp4 --output dataset/fake --detector face_detector --skip 1
+# python gather_examples.py --input videos/--.mov --output training/--.mov
+
 
 # import the necessary package from imutils.video import VideoStream
 import imutils
